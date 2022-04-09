@@ -1,18 +1,18 @@
 ## Hi there,I'm [Shuyuan Wen](https://github.com/Wen-Shuyuan)! 👋
 [![Github Badge](https://img.shields.io/badge/-@ShuyuanWen-181717?style=plastic&logo=GitHub&logoColor=white)](https://github.com/Wen-Shuyuan)
 [![Mail Badge](https://img.shields.io/badge/-shuyuanwen@buaa.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:shuyuanwen@buaa.edu.cn "Connect via Email")
-[![Website Badge](https://img.shields.io/badge/-ShuyuanWen.github.io-5a5a5a?style=plastic&logo=vercel&logoColor=white)](https://ShuyuanWen.github.io)
+[![Website Badge](https://img.shields.io/badge/-shuyuanwen.github.io-5a5a5a?style=plastic&logo=vercel&logoColor=white)](https://shuyuanwen.github.io)
 
-<a href="https://github.com/Wen-Shuyuan/"><img alt="GIF" src="https://github.com/Wen-Shuyuan/Wen-Shuyuan/blob/main/code.gif?raw=true" align="right" height="170" /></a>
+<a href="https://github.com/shuyuanwen/"><img alt="GIF" src="https://github.com/shuyuanwen/shuyuanwen/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
 🔭 I'm a PhD student at Beihang University, currently working on **Computer Vision**, including: 
 - Target Detection
 - Target Tracking
 - Visual Measurement
 
-<a href="https://github.com/Wen-Shuyuan?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
-<img alt="Wen-Shuyuan" src="https://badges.pufler.dev/visits/Wen-Shuyuan/Wen-Shuyuan?logo=GitHub&label=visits&style=flat&color=1081c1">
-<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Wen-Shuyuan/Wen-Shuyuan?label=profile%20updated&style=flat&color=cfa81c">
+<a href="https://github.com/shuyuanwen?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
+<img alt="shuyuanwen" src="https://badges.pufler.dev/visits/shuyuanwen/shuyuanwen?logo=GitHub&label=visits&style=flat&color=1081c1">
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/shuyuanwen/shuyuanwen?label=profile%20updated&style=flat&color=cfa81c">
 
 #
 <details>
@@ -20,7 +20,7 @@
    Some of my Github Public Stats :octocat:
 </summary><br>
 <p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wen-Shuyuan&theme=tokyonight&show_icons=true&hide=issues">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shuyuanwen&theme=tokyonight&show_icons=true&hide=issues">
 </p>
 
    #
