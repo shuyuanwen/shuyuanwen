@@ -5,7 +5,7 @@
 
 <a href="https://github.com/Wen-Shuyuan/"><img alt="GIF" src="https://github.com/Wen-Shuyuan/Wen-Shuyuan/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-🔭 I'm a PhD student at Beihang University, currently working on Computer Vision, including: 
+🔭 I'm a PhD student at Beihang University, currently working on **Computer Vision**, including: 
 - Target Detection
 - Target Tracking
 - Visual Measurement
