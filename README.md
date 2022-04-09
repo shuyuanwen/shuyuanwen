@@ -1,5 +1,5 @@
 ## Hi there, [Wen-Shuyuan](https://github.com/Wen-Shuyuan) here 👋
-[![Github Badge](https://img.shields.io/badge/-@Shuyuan-Wen-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Wen-Shuyuan)
+[![Github Badge](https://img.shields.io/badge/-@Wen-Shuyuan-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Wen-Shuyuan)
 [![Mail Badge](https://img.shields.io/badge/-shuyuanwen@buaa.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuyuanwen@buaa.edu.cn "Connect via Email")
 [![Website Badge](https://img.shields.io/badge/-Wen-Shuyuan.github.io-5a5a5a?style=flat&logo=vercel&logoColor=white)](https://Wen-Shuyuan.github.io)
 
