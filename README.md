@@ -5,8 +5,6 @@
 
 <a href="https://github.com/Wen-Shuyuan/"><img alt="GIF" src="https://github.com/Wen-Shuyuan/Wen-Shuyuan/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-I am a 1nd-year Graduate Student at Beihang University, pursuing a Masters in Computer Science.
-
 🔭I’m currently working on Computer Vision, including: 
 - Target Detection
 - Target Tracking
@@ -40,6 +38,8 @@ I am a 1nd-year Graduate Student at Beihang University, pursuing a Masters in Co
 
 <!--
 **Wen-Shuyuan/Wen-Shuyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a 1nd-year Graduate Student at Beihang University, pursuing a Masters in Computer Science.
 
 Here are some ideas to get you started:
 
