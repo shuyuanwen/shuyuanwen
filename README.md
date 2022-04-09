@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-shuyuanwen@buaa.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuyuanwen@buaa.edu.cn "Connect via Email")
 [![Website Badge](https://img.shields.io/badge/-Wen-Shuyuan.github.io-5a5a5a?style=flat&logo=vercel&logoColor=white)](https://Wen-Shuyuan.github.io)
 
-<a href="https://github.com/Janspiry/"><img alt="GIF" src="https://github.com/Wen-Shuyuan/Wen-Shuyuan/code.gif?raw=true" align="right" height="170" /></a>
+<a href="https://github.com/Wen-Shuyuan/"><img alt="GIF" src="https://github.com/Wen-Shuyuan/Wen-Shuyuan/code.gif?raw=true" align="right" height="170" /></a>
 
 I am a 1nd-year Graduate Student at Beihang University, pursuing a Masters in Computer Science.
 
