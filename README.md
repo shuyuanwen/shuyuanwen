@@ -1,11 +1,11 @@
-## Hi there,I'm [Shuyuan Wen](https://github.com/Wen-Shuyuan) 👋
+## Hi there,I'm [Shuyuan Wen](https://github.com/Wen-Shuyuan)! 👋
 [![Github Badge](https://img.shields.io/badge/-@ShuyuanWen-181717?style=plastic&logo=GitHub&logoColor=white)](https://github.com/Wen-Shuyuan)
 [![Mail Badge](https://img.shields.io/badge/-shuyuanwen@buaa.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:shuyuanwen@buaa.edu.cn "Connect via Email")
 [![Website Badge](https://img.shields.io/badge/-ShuyuanWen.github.io-5a5a5a?style=plastic&logo=vercel&logoColor=white)](https://ShuyuanWen.github.io)
 
 <a href="https://github.com/Wen-Shuyuan/"><img alt="GIF" src="https://github.com/Wen-Shuyuan/Wen-Shuyuan/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-🔭I’m currently working on Computer Vision, including: 
+🔭 I'm a PhD student at Beihang University, currently working on Computer Vision, including: 
 - Target Detection
 - Target Tracking
 - Visual Measurement
