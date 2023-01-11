@@ -5,13 +5,12 @@
 
 <a href="https://github.com/shuyuanwen/"><img alt="GIF" src="https://github.com/shuyuanwen/shuyuanwen/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-🔭 I'm a PhD student at Beihang University, currently working on **Computer Vision**, including: 
+🔭 I'm a Ph.D. student at Beihang University, currently working on **Computer Vision**, including: 
 - Target Detection
 - Target Tracking
 - Visual Measurement
 
 <a href="https://github.com/shuyuanwen?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
-<img alt="shuyuanwen" src="https://badges.pufler.dev/visits/shuyuanwen/shuyuanwen?logo=GitHub&label=visits&style=flat&color=1081c1">
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/shuyuanwen/shuyuanwen?label=profile%20updated&style=flat&color=cfa81c">
 
 #
